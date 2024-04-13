@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="32px" viewBox="0 0 19 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>mouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Vodjo-2018" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-631.000000, -600.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Header">
+                <g id="mouse" transform="translate(640.500000, 616.000000) scale(1, -1) translate(-640.500000, -616.000000) translate(631.000000, 600.000000)">
+                    <path d="M9.5,0 C0.0422433333,0 0.0422433333,6.36525 0.0422433333,16 C0.0422433333,25.63475 0.0422433333,32 9.5,32 C18.9577567,32 18.9577567,25.63475 18.9577567,16 C18.9577567,6.36525 18.9577567,0 9.5,0 Z M9.5,30.6666875 C1.70404667,30.6666875 1.39333333,26.4329375 1.39333333,16 C1.39333333,5.5670625 1.70404667,1.3333125 9.5,1.3333125 C17.2959533,1.3333125 17.6066667,5.5670625 17.6066667,16 C17.6066667,26.4329375 17.2959533,30.6666875 9.5,30.6666875 Z" id="Shape"></path>
+                    <ellipse id="Oval" cx="9.5" cy="25.3333125" rx="1.35109" ry="1.3333125"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Font Awesome 5 Brands";
+  font-style: normal;
+  font-weight: normal;
+  src: url(../../../themes/vodjo/webfonts/fa-brands-400.eot);
+  src: url(//www.vodjo.com/wp-content/themes/vodjo/webfonts/fa-brands-400.eot?#iefix)
+      format("embedded-opentype"),
+    url(//www.vodjo.com/wp-content/themes/vodjo/webfonts/fa-brands-400.woff2)
+      format("woff2"),
+    url(//www.vodjo.com/wp-content/themes/vodjo/webfonts/fa-brands-400.woff)
+      format("woff"),
+    url(//www.vodjo.com/wp-content/themes/vodjo/webfonts/fa-brands-400.ttf)
+      format("truetype"),
+    url(//www.vodjo.com/wp-content/themes/vodjo/webfonts/fa-brands-400.svg#fontawesome)
+      format("svg");
+}
+.fab {
+  font-family: "Font Awesome 5 Brands";
+}
