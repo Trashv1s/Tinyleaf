@@ -1,0 +1,49 @@
+.article figure  {
+width: unset !important;
+}
+.article figure img {
+height: auto;
+}
+.article img {
+max-width: 100%;
+height: auto;
+}
+.form-control.wpcf7-not-valid, .form-select.wpcf7-not-valid {
+border-color: #dc3545;	
+}
+.form-control.wpcf7-not-valid:focus {
+border-color: #dc3545;
+box-shadow: 0 0 0 0.2rem rgba(220,53,69,.25);
+}
+.wpcf7-not-valid-tip {
+width: 100%;
+margin-top: .25rem;
+font-size: 80%;
+color: #dc3545;
+}
+.wpcf7 form .wpcf7-response-output {
+border: unset;
+margin: 1em 0 0 0;
+padding: 0;
+font-size: 80%;
+}
+.wpcf7 .wpcf7-spinner {
+margin-left: 5px;
+margin-bottom: -8px;
+}
+.grecaptcha-badge{
+visibility: collapse !important;  
+}
+.form-landing .wpcf7-spinner {
+position: absolute;
+width: 24px;
+height: 24px;
+right: 16px;
+top: 40px;
+}
+.client-section .img-client img {
+max-width: 150px;
+}
+.wpcf7-form.submitting .wpcf7-submit {
+pointer-events: none;
+}
